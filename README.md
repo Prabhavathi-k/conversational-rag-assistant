@@ -2,7 +2,7 @@
 
 ## Open in Google Colab
 
-[Open Notebook in Colab](https://colab.research.google.com/github/Prabhavathi-k/conversational-rag-assistant/blob/main/Copy_of_Conversational_Rag_Assistant.ipynb)
+[Open Notebook in Colab](https://colab.research.google.com/github/Prabhavathi-k/conversational-rag-assistant/blob/main/Conversational_Rag_Assistant.ipynb)
 
 
 ## Project Overview
