@@ -1,5 +1,10 @@
 # Conversational RAG Assistant with Tool Calling
 
+## Open in Google Colab
+
+[Open Notebook in Colab](https://colab.research.google.com/github/Prabhavathi-k/conversational_rag_assistant/blob/main/Conversational_Rag_Assistant.ipynb)
+
+
 ## Project Overview
 
 This project implements a Conversational Retrieval-Augmented Generation (RAG) Assistant capable of answering questions from a knowledge base while maintaining conversation context and utilizing external tools when required.
